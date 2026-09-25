@@ -1,0 +1,6 @@
+{
+  "name": "Chantoons Studio - Vidéos de Comptines pour Enfants",
+  "description": "Studio interactif pour créer, animer et exporter des vidéos de chansons et comptines pour enfants avec karaoké dynamique, mascottes dansantes et mélodies synthétisées.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
